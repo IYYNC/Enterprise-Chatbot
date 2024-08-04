@@ -1,4 +1,4 @@
-<h1>Enterprise Chatbot Project</h1>
+<h1>Enterprise Chatbot</h1>
 
 <h2>Overview</h2>
 <p>This project features an advanced enterprise-level chatbot utilizing OpenAI's RAG (Retrieval-Augmented Generation) technology for generating intelligent and context-aware responses. Designed to interpret user prompts to formulate and execute data queries, the chatbot returns structured dataframes and provides basic analysis. The entire development process is streamlined via Azure DevOps, with Snowflake handling robust data storage, and Streamlit delivering an interactive front-end user experience.</p>
